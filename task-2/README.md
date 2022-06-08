@@ -1,6 +1,6 @@
 # Task 1
 
-[Live Link](https://tusersheikh.github.io/learning-css/task-1/)
+[Live Link](https://tusersheikh.github.io/learning-css/task-2/)
 
 ## Todo
 
