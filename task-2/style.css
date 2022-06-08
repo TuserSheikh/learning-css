@@ -38,6 +38,7 @@ nav ul li a:hover {
 
 main {
   padding: 10px;
+  height: 100vh;
 }
 
 main .left {
@@ -52,7 +53,17 @@ main .left section {
 }
 
 main .left section h2 {
-  margin-bottom: 10px;
+  margin: 10px 0 5px;
+}
+
+main .left section ul {
+  padding-left: 20px;
+  list-style-type: circle;
+}
+
+main .left section ul li a {
+  text-decoration: none;
+  color: black;
 }
 
 main .left article {
@@ -65,21 +76,40 @@ main .left article h2 {
   margin: 10px 0;
 }
 
-main .left article h2:last-of-type {
-  margin-top: 20px;
+main .left article figure {
+  width: 100%;
+  margin: 15px 0;
 }
 
-main .left article ul {
-  padding-left: 20px;
-  list-style-type: circle;
+main .left article figure img {
+  width: 100%;
 }
 
-main .left article ul li a {
-  text-decoration: none;
-  color: black;
+main .left article figure figcaption {
+  text-align: right;
+  color: gray;
+  font-style: italic;
+}
+
+main .left article .read-more {
+  margin: 5px 0;
+  text-align: right;
+}
+
+main .left article .read-more button {
+  border: 1px solid black;
+  padding: 5px;
+  background-color: white;
+}
+
+main .left article .read-more button:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
 }
 
 main .right {
+  height: inherit;
   width: 15%;
   float: right;
   display: block;
