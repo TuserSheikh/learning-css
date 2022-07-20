@@ -7,3 +7,5 @@
 2. [Task 2](https://tusersheikh.github.io/learning-css/task-2/)
 
 3. [Task 3](https://tusersheikh.github.io/learning-css/task-3/)
+
+4. [Task 4](https://tusersheikh.github.io/learning-css/task-4/)
