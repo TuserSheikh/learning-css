@@ -9,3 +9,5 @@
 3. [Task 3](https://tusersheikh.github.io/learning-css/task-3/)
 
 4. [Task 4](https://tusersheikh.github.io/learning-css/task-4/)
+
+5. [Task 5](https://tusersheikh.github.io/learning-css/task-5/)
