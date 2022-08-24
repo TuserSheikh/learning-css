@@ -17,3 +17,5 @@
 - [Task 7](https://tusersheikh.github.io/learning-css/task-7/)
 
 - [Task 8](https://tusersheikh.github.io/learning-css/task-8/)
+
+- [Task 9 (Scrimba HTML CSS Solo project)](https://tusersheikh.github.io/learning-css/task-9/)
