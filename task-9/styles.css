@@ -1,0 +1,137 @@
+/* start css reset */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* end css reset */
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.hero {
+  background-image: url(https://webunwto.s3.eu-west-1.amazonaws.com/2019-07/turismo_islas.jpg);
+  height: 60vh;
+  background-size: cover;
+  background-position: 20% 25%;
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.hero h1 {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.hero p {
+  background-color: blueviolet;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.place {
+  background-color: LightBlue;
+  height: 40vh;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+.place div {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.place div h2 {
+  font-size: 1.5rem;
+}
+
+.place div img {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.guide {
+  border-radius: 20px;
+  margin: 20px auto;
+  width: 700px;
+  height: 400px;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  border-bottom: 10px solid;
+}
+
+.guide img {
+  height: 300px;
+  width: 250px;
+  object-fit: cover;
+  border-radius: 10%;
+  margin-left: 20px;
+}
+
+.guide .details {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.guide .details h2 {
+  font-size: 2rem;
+}
+
+.guide .details h3 {
+  font-size: 1.3rem;
+}
