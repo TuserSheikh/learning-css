@@ -25,3 +25,5 @@
 - [Task 11 (Scrimba vanilla JS Solo project "Random Password Generator")](https://tusersheikh.github.io/learning-css/task-11/)
 
 - [Task 12 (Scrimba vanilla JS Solo project "Unit Conversion")](https://tusersheikh.github.io/learning-css/task-12/)
+
+- [Task 13 (Scrimba vanilla JS Solo project "Oldagram")](https://tusersheikh.github.io/learning-css/task-13/)
