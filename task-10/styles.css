@@ -38,66 +38,91 @@ img {
 /* end css reset */
 
 body {
-  font-family: "Poppins", sans-serif;
-  display: grid;
-  place-items: center;
-  background: #bdc3c7;
+  font-family: "Source Sans Pro", sans-serif;
+  background: hsla(0, 0%, 93%, 1);
 }
 
-.scoreboard {
-  width: 700px;
-  height: 450px;
-  background: #16a085;
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
+article,
+header {
+  background: hsla(0, 0%, 100%, 1);
 }
 
-.team {
-  height: 70%;
+main {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: space-evenly;
+  gap: 20px;
 }
 
-.team h2 {
-  font-size: 3rem;
-  color: #ecf0f1;
+.container {
+  width: 90%;
+  margin: 0 auto;
 }
 
-.team p {
-  display: grid;
-  place-items: center;
-  width: 200px;
-  height: 100px;
-  background: #34495e;
-  color: #7f8c8d;
-  font-size: 4rem;
-}
-
-.controll {
-  width: 200px;
+.head {
+  padding: 10px 0;
   display: flex;
-  flex-direction: row;
   align-items: center;
   justify-content: space-between;
+  background: hsla(0, 0%, 100%, 1);
+  margin-bottom: 1px;
 }
 
-.controll button {
+.head .logo {
+  width: 130px;
+}
+
+.head .user {
+  width: 35px;
+  border-radius: 50%;
+}
+
+.post-user {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.post-user .post-user-img {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.post-user .post-user-details h2 {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.post-user .post-user-details p {
+  font-size: 1rem;
+}
+
+.post-details {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 10px 0;
+}
+
+.post-details-reactions {
+  display: flex;
+  gap: 10px;
+}
+
+.post-details-reactions img {
+  width: 24px;
+}
+
+.post-details-reactions img:hover {
+  opacity: 0.5;
   cursor: pointer;
-  padding: 8px 10px;
-  font-size: 1.5rem;
-  background: none;
-  border: 1px solid #ecf0f1;
-  color: #ecf0f1;
 }
 
-.controll button:hover {
-  color: #16a085;
-  background-color: #ecf0f1;
+.post-details-likes {
+  font-weight: 700;
 }
 
-.top-score {
-  border: 1px solid #ecf0f1;
+.post-details-comments-user-name {
+  font-weight: 700;
 }

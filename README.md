@@ -18,12 +18,6 @@
 
 - [Task 8](https://tusersheikh.github.io/learning-css/task-8/)
 
-- [Task 9 (Scrimba HTML CSS Solo project)](https://tusersheikh.github.io/learning-css/task-9/)
+- [Task 9](https://tusersheikh.github.io/learning-css/task-9/)
 
-- [Task 10 (Scrimba vanilla JS Solo project "Scoreboard")](https://tusersheikh.github.io/learning-css/task-10/)
-
-- [Task 11 (Scrimba vanilla JS Solo project "Random Password Generator")](https://tusersheikh.github.io/learning-css/task-11/)
-
-- [Task 12 (Scrimba vanilla JS Solo project "Unit Conversion")](https://tusersheikh.github.io/learning-css/task-12/)
-
-- [Task 13 (Scrimba vanilla JS Solo project "Oldagram")](https://tusersheikh.github.io/learning-css/task-13/)
+- [Task 10 "Oldagram")](https://tusersheikh.github.io/learning-css/task-10/)
