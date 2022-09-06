@@ -20,4 +20,4 @@
 
 - [Task 9](https://tusersheikh.github.io/learning-css/task-9/)
 
-- [Task 10 "Oldagram")](https://tusersheikh.github.io/learning-css/task-10/)
+- [Task 10 "Oldagram"](https://tusersheikh.github.io/learning-css/task-10/)
