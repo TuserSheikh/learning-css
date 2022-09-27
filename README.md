@@ -18,6 +18,6 @@
 
 - [Task 8](https://tusersheikh.github.io/learning-css/task-8/)
 
-- [Task 9](https://tusersheikh.github.io/learning-css/task-9/)
+- [Task 9 "Hometown Homepage"](https://tusersheikh.github.io/learning-css/task-9/)
 
 - [Task 10 "Oldagram"](https://tusersheikh.github.io/learning-css/task-10/)
