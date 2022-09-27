@@ -38,7 +38,7 @@ img {
 /* end css reset */
 
 body {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   background: hsla(0, 0%, 93%, 1);
 }
 
@@ -51,6 +51,11 @@ main {
   display: flex;
   flex-direction: column;
   gap: 20px;
+}
+
+.wrapper {
+  max-width: 450px;
+  margin: 0 auto;
 }
 
 .container {
