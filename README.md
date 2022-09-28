@@ -21,3 +21,5 @@
 - [Task 9 "Hometown Homepage"](https://tusersheikh.github.io/learning-css/task-9/)
 
 - [Task 10 "Oldagram"](https://tusersheikh.github.io/learning-css/task-10/)
+
+- [Task 11 "flexbox card"](https://tusersheikh.github.io/learning-css/task-11/)
